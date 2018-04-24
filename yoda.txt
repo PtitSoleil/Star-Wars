@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Que la force sois avec toi
 
 ET un peu d'obscurité
+=======
+>>>>>>> parent of 5a7216b... Ajout de texte dans le fichier
